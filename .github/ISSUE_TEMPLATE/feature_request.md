@@ -1,11 +1,9 @@
 ---
 name: Feature request
-
 about: RFC for LPE project
 title: RFC XXX
 labels: ''
 assignees: AliFellows
-
 
 ---
 
