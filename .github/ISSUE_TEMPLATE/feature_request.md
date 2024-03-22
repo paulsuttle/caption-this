@@ -1,8 +1,8 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Bug testing list
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
