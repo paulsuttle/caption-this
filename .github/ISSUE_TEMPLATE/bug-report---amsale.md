@@ -1,9 +1,9 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Bug Report - Amsale
+about: Issue log tracker
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: tulikapgit
 
 ---
 
