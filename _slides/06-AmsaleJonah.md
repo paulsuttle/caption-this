@@ -3,7 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Release 12 
+
+Hi this is Amsale
+
 
 ![luchadortocat](https://octodex.github.com/images/luchadortocat.png)
 {: .center}
